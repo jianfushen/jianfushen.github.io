@@ -76,7 +76,7 @@ skills:
     - name: Textual Analysis
       description: ''
       percent: 60
-      icon: text
+      icon: comment-dots
       icon_pack: fas
     - name: SQL
       description: ''
@@ -86,7 +86,7 @@ skills:
     - name: Machine Learning
       description: ''
       percent: 40
-      icon: head-side-gear
+      icon: robot
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
