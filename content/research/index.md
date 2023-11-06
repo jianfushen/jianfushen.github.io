@@ -1,6 +1,6 @@
 ### Peer-reviewed Articles
 
-**"The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts."** with Daoju Peng, Jianfu Shen, Simon Yu Kit Fung, Eddie Hui (2022). _The Journal of Real Estate Finance and Economics_, 2022. 
+**"The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts."** with Daoju Peng, Jianfu Shen, Simon Yu Kit Fung, Eddie Hui (2022). _The Journal of Real Estate Finance and Economics_, 2022. [link](https://link.springer.com/article/10.1007/s11146-022-09909-w#citeas)
 
 Shen, J., Hui, E., & Fan, K. (2021). The beta anomaly in the REIT market. The Journal of Real Estate Finance and Economics, 63(3), 414-436. (ABS 3, ABDC “A” journal, SSCI) 
 
