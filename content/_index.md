@@ -26,6 +26,34 @@ sections:
     columns: "2"
     view: citation  
 
+- block: collection
+  id: workingpaper
+  content:
+  # Choose how many pages you would like to display (0 = all pages)
+    count: 4
+    filters:
+      exclude_featured: true
+      folders:
+      - workingpaper
+    title: Working paper
+  design:
+    columns: "2"
+    view: citation  
+
+- block: collection
+  id: conferencepaper
+  content:
+  # Choose how many pages you would like to display (0 = all pages)
+    count: 4
+    filters:
+      exclude_featured: true
+      folders:
+      - conferencepaper
+    title: Conference paper
+  design:
+    columns: "2"
+    view: citation  
+
 
 - block: portfolio
   content:
