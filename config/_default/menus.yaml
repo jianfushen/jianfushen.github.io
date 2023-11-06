@@ -7,12 +7,18 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 10
-  - name: Research
+  - name: Publication
     url: '#research'
     weight: 20
+  - name: Working Paper
+    url: '#workingpaper'
+    weight: 30
+  - name: Conference Paper
+    url: '#conferencepaper'
+    weight: 40
   - name: Teaching
     url: '#teaching'
-    weight: 30
+    weight: 50
   # - name: Posts
   #   url: '#post'
   #   weight: 40
