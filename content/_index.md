@@ -203,10 +203,10 @@ sections:
       filters:
         folders:
           - research
-        exclude_featured: true
+      #   exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      view: list
   - block: markdown
     id: teaching
     content:
@@ -216,7 +216,7 @@ sections:
           - teaching
     design:
       columns: '2'
-      view: compact
+      view: list
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
