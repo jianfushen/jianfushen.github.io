@@ -8,16 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Native 
-  font_size: m #  Supported font sizes are xs, s, m, l, xl
-
-# font
-# Minimal (modern)
-# Classic (original Academic v1 style)
-# Rose (traditional serif)
-# Mr Robot (futuristic)
-# Cyberpunk (hacker style)
-# Native: use device fonts for maximum performance
+  font: minimal
+  font_size: L
 
 # SEO
 
@@ -29,10 +21,10 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: 'UA-164125578-1'
+    google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -53,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yajun Lu. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -66,7 +58,6 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
-
 
 # Site features
 
@@ -105,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'Google'
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
