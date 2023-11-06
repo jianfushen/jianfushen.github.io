@@ -39,17 +39,9 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -102,6 +94,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
+          icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
@@ -110,6 +103,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
@@ -118,6 +112,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
+          icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
@@ -248,6 +243,10 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
