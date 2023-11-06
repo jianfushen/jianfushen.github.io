@@ -192,7 +192,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: markdown
     id: research
     content:
       title: Research
@@ -207,7 +207,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
