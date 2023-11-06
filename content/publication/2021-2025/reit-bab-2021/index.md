@@ -7,12 +7,12 @@ authors:
 - Jianfu Shen
 - Eddie C.M. Hui
 - Kwok Yuen Fan
-date: "2020-07-23"
+date: "2020-07-23T00:00:00Z"
 doi: "https://doi.org/10.1007/s11146-020-09784-3"
 featured: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-23"
+publishDate: "2020-07-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
