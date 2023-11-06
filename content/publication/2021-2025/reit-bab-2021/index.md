@@ -5,7 +5,7 @@ author_notes:
 
 authors:
 - Jianfu Shen
-- Eddie Hui
+- Eddie C.M. Hui
 - Kwok Yuen Fan
 date: "2021"
 doi: "https://doi.org/10.1007/s11146-020-09784-3"
