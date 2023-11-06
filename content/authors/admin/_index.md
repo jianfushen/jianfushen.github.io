@@ -67,7 +67,7 @@ skills:
       description: ''
       percent: 70
       icon: magnifying-glass-chart
-      icon_pack: fab
+      icon_pack: fas
     - name: R
       description: ''
       percent: 70
@@ -77,7 +77,7 @@ skills:
       description: ''
       percent: 60
       icon: text
-      icon_pack: fab
+      icon_pack: fas
     - name: SQL
       description: ''
       percent: 40
