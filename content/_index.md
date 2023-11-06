@@ -10,44 +10,6 @@ sections:
     title: Biography
     username: admin
   id: about
-  
-- block: experience
-  content:
-    # Date format for experience
-    # Refer to https://wowchemy.com/docs/customization/#date-format
-    date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    items:
-    - company: Jacksonville State University
-      company_logo: jsu
-      company_url: "https://www.jsu.edu/"
-      date_end: ""
-      date_start: "2021-08-02"
-      location: Jacksonville, AL, USA
-      title: Assistant Professor of Analytics & Operations Management
-    - company: Bucknell University
-      company_logo: bucknell
-      company_url: "https://www.bucknell.edu/"
-      date_end: "2021-05-31"
-      date_start: "2019-08-01"
-      location: Lewisburg, PA, USA
-      title: Visiting Assistant Professor of Business Analytics
-    - company: Huawei Technologies Co., Ltd.
-      company_logo: huawei
-      company_url: "https://www.huawei.com/en"
-      date_end: "2014-07-15"
-      date_start: "2011-03-11"
-      description: "Job Duty: Optimization and Simulation, Data Analytics, Supply Chain Management,       Lean Manufacturing"  
-      location: Shenzhen, China
-      title: Industrial Engineer
-    title: Experience
-  design:
-    columns: "2"
-  id: experience
 
 
 - block: collection
