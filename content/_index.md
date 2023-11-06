@@ -58,16 +58,14 @@ sections:
 - block: portfolio
   content:
     # Choose how many pages you would like to display (0 = all pages)
-    count: 3
+    count: 2
     buttons:
     - name: All
       tag: '*'
-    - name: Jacksonville State University
-      tag: JSU
-    - name: Bucknell University
-      tag: Bucknell
-    - name: Oklahoma State University
-      tag: OSU
+    - name: United International College
+      tag: UIC
+    - name: The Hong Kong Polytechnic University
+      tag: PolyU
     default_button_index: 0
     filters:
       folders:
@@ -131,22 +129,15 @@ sections:
 - block: contact
   content:
     title: Contact
-    phone: (256) 782-5398
     address:
-      city: Jacksonville
-      country: United States
-      country_code: US
-      postcode: "36265"
-      region: AL
-      street: 287 Merrill Hall, Jacksonville State University
-    email: ylu[at]jsu.edu
-    # Coordinates to display a map - set your map provider in `params.yaml`
-    # coordinates:
-    #   latitude: '33.8286517'
-    #   longitude: '-85.7656348'
+      city: Zhuhai
+      country: China
+      street: United International College(UIC), 2000 Jintong Road, Tangjiawan, Zhuhai, Guangdong Province, China
+    email: kwokyuenfan@uic.edu.cn
   design:
     columns: "2"
   id: contact
+
 title: null
 type: landing
 ---
