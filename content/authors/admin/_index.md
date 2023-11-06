@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include sustainability, corporate finance, political economy.
 
 # Interests to show in About widget
-research interests:
+interests:
   - Sustainability
   - Corporate Finance
   - Political Economy
@@ -130,5 +130,5 @@ social:
 highlight_name: true
 ---
 
-Terry is an assistant professor of finance at the Beijing Normal University – Hong Kong Baptist University United International College. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research interests include Sustainability, Corporate Finance, Political Economy and Real Estate Economics. Terry passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the Journal of Real Estate Finance and Economics (SSCI, ABS 3, ABDC “A” journal).
+Terry is an assistant professor of economics and finance at the Beijing Normal University – Hong Kong Baptist University United International College. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research interests include Sustainability, Corporate Finance, Political Economy and Real Estate Economics. Terry passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the Journal of Real Estate Finance and Economics (SSCI, ABS 3, ABDC “A” journal).
 {style="text-align: justify;"}
