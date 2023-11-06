@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Research
 cms_exclude: true
 
@@ -12,7 +12,7 @@ view: 1
 header:
   caption: ''
   image: ''
---- -->
+---
 
 
 
