@@ -1,0 +1,3 @@
+1.	Peng, D., Shen, J., Fung, S. Y. K., Hui, E., & Fan, K. (2022). The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts. The Journal of Real Estate Finance and Economics, 1-44. (ABS 3, ABDC “A” journal, SSCI) 
+2.	Shen, J., Hui, E., & Fan, K. (2021). The beta anomaly in the REIT market. The Journal of Real Estate Finance and Economics, 63(3), 414-436. (ABS 3, ABDC “A” journal, SSCI) 
+3.	Shen, J., Hui, E., & Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. The Journal of Real Estate Finance and Economics, 63(1), 122-142. (ABS 3, ABDC “A” journal, SSCI) 
