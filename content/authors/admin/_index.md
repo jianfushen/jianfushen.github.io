@@ -73,10 +73,20 @@ skills:
       percent: 70
       icon: r
       icon_pack: fab
+    - name: Textual Analysis
+      description: ''
+      percent: 60
+      icon: text
+      icon_pack: fab
     - name: SQL
       description: ''
       percent: 40
       icon: database
+      icon_pack: fas
+    - name: Machine Learning
+      description: ''
+      percent: 40
+      icon: head-side-gear
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -96,6 +106,11 @@ skills:
         description: ''
         percent: 40
         icon: camera-retro
+        icon_pack: fas
+      - name: Video game
+        description: ''
+        percent: 30
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
