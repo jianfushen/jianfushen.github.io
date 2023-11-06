@@ -7,7 +7,7 @@ authors:
 - Jianfu Shen
 - Eddie C.M. Hui
 - Kwok Yuen Fan
-date: "2021"
+date: "2021-05-18"
 doi: "https://doi.org/10.1007/s11146-020-09763-8"
 featured: false
 
@@ -21,7 +21,7 @@ featured: false
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Journal of Real Estate Finance and Economics, 63*:122-142"
+publication: "*The Journal of Real Estate Finance and Economics, 63*: 122-142"
 
 
 # links:
