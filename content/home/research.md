@@ -14,22 +14,9 @@ design:
 
 ### Peer-reviewed Articles
 
-- Peng, Daoju, et al. ["The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts."](https://doi.org/10.1007/s11146-022-09909-w) _The Journal of Real Estate Finance and Economics_ (2022): 1-44.
-  <div class="text-muted exp-meta">DENSO, Dec 2022</div>
-- CTO's Commendation, Active Challenge Award
-  <div class="text-muted exp-meta">DENSO, Dec 2022</div>
-- Papers with Code Top Contributor Award
-  <div class="text-muted exp-meta">Meta, Mar 2022</div>
-- OpenMMLab Contributor of the Year Award 2021
-  <div class="text-muted exp-meta">OpenMMLab, Jan 2022</div>
-- The 56th Acacia Award
-  <div class="text-muted exp-meta">Hiroshima University Senior High School, Jan 2007</div>
-- The Award of the Minister of State for Science and Technology Policy
-  at the 50th Japan Student Science Award
-  <div class="text-muted exp-meta">Minister of Japan, Dec 2006</div>
-- Outstanding Reviewer
-  <div class="text-muted exp-meta">NeurIPS Datasets and Benchmarks Track 2022, BMVC 2022</div>
-<!--
-https://neurips.cc/Conferences/2022/DatasetBenchmarkProgramCommittee
-https://bmvc2022.org/people/reviewers/
--->
+- Peng, Daoju, et al. **["The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts."]**(https://doi.org/10.1007/s11146-022-09909-w) _The Journal of Real Estate Finance and Economics_ (2022): 1-44.
+  <div class="text-muted exp-meta">Abstract: REITs market reacts positively to the announcement of clawback adoption, especially when the clawback policy is strong. The clawback adoption improve the accounting quality and reduce empire-building behaviour of REITs.</div>
+- Shen, Jianfu, Eddie CM Hui, and Kwok Yuen Fan. **["The beta anomaly in the REIT market."]**(https://doi.org/10.1007/s11146-020-09784-3) _The Journal of Real Estate Finance and Economics_ 63 (2021): 414-436.
+  <div class="text-muted exp-meta">Abstract: The beta anomaly is only significant in the New REIT Era after 1993. The exposure of institutional investors to high-beta REITs could explain the beta anomaly.</div>
+- Shen, Jianfu, Eddie CM Hui, and Kwok Yuen Fan. **["Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs."]**(https://doi.org/10.1007/s11146-020-09763-8) _The Journal of Real Estate Finance and Economics_ 63 (2021): 122-142.
+  <div class="text-muted exp-meta">Abstract: Real estate professionals detected the property bubble and foresaw the consequent financial crisis of 2007-2008. Insiders reduced their holdings significantly during the real estate boom period as early as 2004.</div>
