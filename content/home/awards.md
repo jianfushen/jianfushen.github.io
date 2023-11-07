@@ -3,16 +3,18 @@
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 20
 
-title: Awards
+title: Research
 subtitle:
 
 design:
-  columns: '2'
+  columns: "2"
 ---
 
-- President's Commendation, Active Challenge Award
+### Peer-reviewed Articles
+
+- Peng, Daoju, et al. ["The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts."](https://doi.org/10.1007/s11146-022-09909-w) _The Journal of Real Estate Finance and Economics_ (2022): 1-44.
   <div class="text-muted exp-meta">DENSO, Dec 2022</div>
 - CTO's Commendation, Active Challenge Award
   <div class="text-muted exp-meta">DENSO, Dec 2022</div>
