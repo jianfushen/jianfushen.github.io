@@ -3,13 +3,13 @@
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 title: Misc
 subtitle:
 
 design:
-  columns: '2'
+  columns: "2"
 ---
 
 ## Japanese translation

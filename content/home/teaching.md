@@ -3,13 +3,13 @@
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 30
 
-title: Competitions
+title: Teaching
 subtitle:
 
 design:
-  columns: '2'
+  columns: "2"
 ---
 
 - COCO test-dev AP 54.1% (to our knowledge, state-of-the-art accuracy by training within 24 epochs, as of November 14, 2020).
