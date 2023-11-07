@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yosuke Shinya is a research engineer in computer vision and deep learning.'
-    twitter: 'shinya7y'
+    description: 'Kwok Yuen Fan is an empirical researcher in Economics and Finance.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yosuke Shinya.'
+    notice: '© {year} Kwok Yuen Fan.'
     # notice: '© {year} Me. This work is licensed under {license}'
     # license:
     #   enable: true
