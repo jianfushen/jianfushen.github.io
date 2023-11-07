@@ -3,15 +3,22 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Kwok Yuen Fan # Website name
-baseURL: 'https://kwokyuenfan.github.io/' # Website URL
+title: 'Yosuke Shinya'
+baseURL: 'https://shinya7y.github.io/'
+
+# TODO check whether links work properly
+# If you find issues, canonifyurls may fix them
+# canonifyurls: true
+# https://github.com/wowchemy/wowchemy-hugo-themes/discussions/2758
+# https://github.com/google/docsy/issues/1114
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+# set true if your site has Chinese/Japanese/Korean language
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -21,15 +28,16 @@ removePathAccents: true
 
 module:
   imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
