@@ -26,3 +26,5 @@ design:
 
 - Shen, Jianfu, Eddie CM Hui, and Kwok Yuen Fan. **["Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs."](https://doi.org/10.1007/s11146-020-09763-8)** _The Journal of Real Estate Finance and Economics_ 63 (2021): 122-142.
   <div class="text-muted exp-meta">Abstract: Real estate professionals detected the property bubble and foresaw the consequent financial crisis of 2007-2008. Insiders reduced their holdings significantly during the real estate boom period as early as 2004.</div>
+
+{style="text-align: justify;"}
