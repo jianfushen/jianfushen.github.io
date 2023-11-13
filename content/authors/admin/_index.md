@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr. Kwok Yuen (Terry) Fan 范国源 
+title: 范国源
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: "Kwok Yuen (Terry) Fan"
 
 # Full name (for SEO)
-first_name: Kwok Yuen
+first_name: Kwok Yuen (Terry)
 last_name: Fan
 
 # Status emoji
@@ -120,7 +120,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -136,9 +136,9 @@ social:
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+# and uncomment the lines below.
 #  - icon: cv
 #    icon_pack: ai
 #    link: uploads/resume.pdf
