@@ -1,35 +1,32 @@
-# Modified from https://github.com/peaceiris/actions-hugo
-name: GitHub Pages
+name: github pages
 
 on:
   push:
     branches:
-      - main
+      - master # Set a branch that will trigger a deployment
+  pull_request:
 
 jobs:
   deploy:
     runs-on: ubuntu-22.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v3
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+        # with:
+        #   submodules: false  # Fetch Hugo themes (true OR recursive)
+        #   fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          # hugo-version: '0.104.3'
-          hugo-version: '0.100.2'  # to avoid https://github.com/google/docsy/issues/1114
-          extended: true  # for academic theme
+          hugo-version: "latest"
+          extended: true
 
       - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+        run: hugo --minify  --baseURL https://goofish-shop.github.io/hugo-blowfish
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.4.2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          branch: gh-pages
+          folder: public
+          clean: true
+          single-commit: true
