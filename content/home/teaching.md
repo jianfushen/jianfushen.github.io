@@ -12,14 +12,18 @@ design:
   columns: "2"
 ---
 
-### United International College(UIC)
+### Hong Kong Polytechnic University, Department of Building & Real Estate
 
-- FIN2023 Financial Management
-- FIN3013 Corporate Finance
-- FIN3053 Multinational Finance
+- Project Appraisal Development Finance and Investment
+- Housing Studies Business Valuation and Accounts
+- Construction Economics and Finance Construction Economics
 
-### The Hong Kong Polytechnic University
+### the Hang Seng University of Hong Kong
 
-- Business Valuation and Accounts
-- Development Finance and Investment
-- Construction Economics
+- Financial Derivative Portfolio Management
+- Fixed Income Securities Financial Management
+
+### Hong Kong Polytechnic University, School of Accounting & Finance
+
+- Fixed Income Securities Business Risk Management
+- Risk Management Derivative Securities
