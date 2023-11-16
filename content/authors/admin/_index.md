@@ -118,7 +118,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jeff.jf.shen@polyu.edu.hk
+    link: "mailto:jeff.jf.shen@polyu.edu.hk"
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
