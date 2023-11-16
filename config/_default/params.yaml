@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Kwok Yuen Fan is an empirical researcher in Economics and Finance.'
+    description: 'Dr Shen's research focuses on real estate, ESG and green infrastructure.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Kwok Yuen Fan.'
+    notice: '© {year} Dr Jeff Jianfu Shen'
     # notice: '© {year} Me. This work is licensed under {license}'
     # license:
     #   enable: true

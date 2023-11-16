@@ -13,12 +13,18 @@ main:
   - name: Teaching
     url: "#teaching"
     weight: 30
+  - name: Honors
+    url: "#honors"
+    weight: 40
+  - name: PhD Supervisions
+    url: "#phd"
+    weight: 50
   - name: Misc
     url: "#misc"
-    weight: 40
+    weight: 60
   - name: CV
     url: uploads/resume.pdf
-    weight: 50
+    weight: 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

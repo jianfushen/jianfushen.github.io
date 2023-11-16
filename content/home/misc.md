@@ -3,7 +3,7 @@
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
 title: Misc
 subtitle:
@@ -14,9 +14,5 @@ design:
 
 ## Professional Qualifications
 
-- Passed CFA Level III
-- Passed FRM Part II
-
-## Membership
-
-- Ronald Coase Institute Workshop Alumni
+- Certificated FRM (Financial Risk Manager)
+- CFA (Chartered Financial Analyst) charterholder
