@@ -1,50 +1,52 @@
 ---
 # Display name
-title: 沈建富
+title: 范国源
 
 # Name pronunciation (optional)
-name_pronunciation: "Jeff Jianfu Shen"
+name_pronunciation: "Kwok Yuen (Terry) Fan"
 
 # Full name (for SEO)
-first_name: Jeff Jianfu
-last_name: Shen
+first_name: Kwok Yuen (Terry)
+last_name: Fan
 
 # Status emoji
 status:
-  icon:
+  icon: 🕵🏾
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant professor at the Hong Kong Polytechnic University
+role: Assistant professor of Economics and Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Building and Real Estate, the Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/bre/people/academic-staff/dr-jeff-jianfu-shen/
+  - name: BNU-HKBU United International College
+    url: https://fbm.uic.edu.cn/fin_en/faculty/faculty.htm#/kwokyuenfan/en
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include sustainability, corporate finance, political economy.
 
 # Interests to show in About widget
 interests:
-  - Real estate
-  - ESG
-  - Green infrastructure
+  - Sustainability
+  - Corporate Finance
+  - Political Economy
+  - Real Estate
+  - Fintech
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Real Estate Finance
-      institution: The University of Hong Kong
-      year: 2012
-    - course: Master in Finance
-      institution: Renmin University of China
-      year: 2008
-    - course: Bachelor in Land Management
-      institution: Renmin University of China
-      year: 2006
+    - course: PhD in Real Estate Economics
+      institution: The Hong Kong Polytechnic University
+      year: 2023
+    - course: MSc in Advanced Financial Analysis
+      institution: Lancaster University
+      year: 2018
+    - course: BBA in Business Administration
+      institution: The Hang Seng University of Hong Kong
+      year: 2016
 
 # # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -118,7 +120,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jeff.jf.shen@polyu.edu.hk
+    link: "/#contact"
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -145,5 +147,5 @@ social:
 highlight_name: true
 ---
 
-Dr Shen is an assistant professor at the [Department of Building and Real Estate, the Hong Kong Polytechnic University](https://www.polyu.edu.hk/bre/). Dr Shen completed his PhD degree in Real Estate Finance at [The University of Hong Kong](https://www.hku.hk/). He obtained a bachelor degree in Land Management and master degree in Finance from [Renmin University of China](https://en.ruc.edu.cn/) in Beijing. Prior to joining the Department of Building and Real Estate, Dr Shen was a visiting scholar at the [University of Connecticut](https://uconn.edu/), and worked at the [School of Accounting & Finance, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/af/), and Department of Economics & Finance, [The Hang Seng University of Hong Kong](https://www.hsu.edu.hk/en/). His papers were published in the journals in the areas of real estate, finance and urban studies, including **Journal of Corporate Finance**, **Journal of Real Estate Economics and Finance**, **Financial Review**, **Journal of Business Research**, **Journal of Financial Research**, **Habitat International** etc., He is also a **certificated FRM (Financial Risk Manager)** and **CFA (Chartered Financial Analyst) charterholder**.
+I am an assistant professor of economics and finance at the [Beijing Normal University – Hong Kong Baptist University United International College](https://uic.edu.cn/en/). I received his Ph.D. in Real Estate Economics from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/bre/). My research focuses on **Sustainability, Corporate Finance, Political Economy, Real Estate and Fintech**. I passed the _CFA Level III_ and _FRM Part II_ examinations and has several published papers in reputable journals such as the Journal of Real Estate Finance and Economics (SSCI, ABS 3, ABDC “A” journal).
 {style="text-align: justify;"}
