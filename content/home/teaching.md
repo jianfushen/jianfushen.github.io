@@ -14,6 +14,7 @@ design:
 
 ### The Hong Kong Polytechnic University, Department of Building & Real Estate
 
+- Real Estate Finance and Appraisal
 - Project Appraisal 
 - Development Finance and Investment
 - Housing Studies 
