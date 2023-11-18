@@ -26,7 +26,7 @@ design:
 
 #####
 
-3. Shen, J., Hui, E.C.M and Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. _Journal of Real Estate Finance & Economics, 63: 122-142.
+3. Shen, J., Hui, E.C.M and Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. _Journal of Real Estate Finance & Economics_, 63: 122-142.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -46,22 +46,22 @@ design:
 
 #####
 
-7. Shen, J., Pretorius, F., and Li, X. (2019). Does joint bidding reduce competitions? Evidence from Hong Kong land auctions. _Journal of Real Estate Finance & Economics_, 58(1), 111-132.
+7. Shen, J., Pretorius, F., and Li, X. (2019). Does joint bidding reduce competitions? Evidence from Hong Kong land auctions. _Journal of Real Estate Finance and Economics_, 58(1), 111-132.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-8. Shen, J., Pretorius, F., and Chau, K.W. (2018). Land auctions with budget constraints. _Journal of Real Estate Finance & Economics_, 56(3), 443-471.
+8. Shen, J., Pretorius, F., and Chau, K.W. (2018). Land auctions with budget constraints. _Journal of Real Estate Finance and Economics_, 56(3), 443-471.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-9. Shen, J., and Yin, X. (2016). Credit expansion, state ownership and capital structure of Chinese real estate companies. _Journal of Property Investment & Finance_, 34(3), 263-275.
+9. Shen, J., and Yin, X. (2016). Credit expansion, state ownership and capital structure of Chinese real estate companies. _Journal of Property Investment and Finance_, 34(3), 263-275.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-10. Shen, J., and Pretorius, F. (2013). Binomial option pricing models for real estate development. _Journal of Property Investment & Finance_, 31(5), 418-440.
+10. Shen, J., and Pretorius, F. (2013). Binomial option pricing models for real estate development. _Journal of Property Investment and Finance_, 31(5), 418-440.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -154,7 +154,7 @@ design:
 
 #####
 
-12. Shen, J., Firth, M. A, and Poon, W. P.H (2016). Credit expansion, corporate finance and overinvestment: Recent evidence from China. _Pacific-Basin Finance Journal_, 39, 16-27.
+12. Shen, J., Firth, M. A, and Poon, W. P. H. (2016). Credit expansion, corporate finance and overinvestment: Recent evidence from China. _Pacific-Basin Finance Journal_, 39, 16-27.
 <div class="text-muted exp-meta"></div>
 
 #####
