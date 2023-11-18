@@ -193,7 +193,7 @@ design:
 
 #####
 
-- Co-Investigator, Central Policy Unit, Public Policy Research (PPR) Funding Scheme, Deriving public policy for Hong Kong as an infrastructure financing hub and super-connector in project finance: The Belt and Road Initiative, HKD 691,783, 2017-2018
+- Co-investigator, Central Policy Unit, Public Policy Research (PPR) Funding Scheme, Deriving public policy for Hong Kong as an infrastructure financing hub and super-connector in project finance: The Belt and Road Initiative, HKD 691,783, 2017-2018
 <div class="text-muted exp-meta"></div>
 
 #####
