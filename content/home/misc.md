@@ -16,3 +16,9 @@ design:
 
 - Certificated FRM (Financial Risk Manager)
 - CFA (Chartered Financial Analyst) charterholder
+
+## Guest Associate Editor
+
+- Frontiers in Public Health
+- Research in International Business and Finance
+  
