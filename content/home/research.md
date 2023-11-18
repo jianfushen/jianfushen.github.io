@@ -16,7 +16,7 @@ design:
 
 #### _Real Estate_
 
-1. Wang, J. J., Shen, J., & Pretorius, F. (2023). Valuing options to renew at future market value: the case of commercial property leases. _Financial Innovation_, _9_(1), 1-35.
+1. Wang, J. J., Shen, J., & Pretorius, F. (2023). Valuing options to renew at future market value: the case of commercial property leases. _Financial Innovation_, 9(1), 1-35.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -26,7 +26,7 @@ design:
 
 #####
 
-3. Shen, J., Hui, E.C.M and Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. _Journal of Real Estate Finance & Economics,_ 63: 122-142.
+3. Shen, J., Hui, E.C.M and Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. _Journal of Real Estate Finance & Economics, 63: 122-142.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -41,7 +41,7 @@ design:
 
 #####
 
-6. Li, X., Hui, E.C.M. and Shen, J. (2020). The consequences of Chinese outward real estate investment: Evidence from Hong Kong land market. _Habitat International_, _98_, 102151.
+6. Li, X., Hui, E.C.M. and Shen, J. (2020). The consequences of Chinese outward real estate investment: Evidence from Hong Kong land market. _Habitat International_, 98, 102151.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -75,22 +75,22 @@ design:
 
 #####
 
-2. Hui, E. C. M., Yu, K. H., Shen, J., & Wang, Y. (2023). A tale of two cities–a comparative study of land conveyance decisions upon national policies and their impacts on land transaction prices in Beijing and Shanghai. _Habitat International_, _131_, 102734.
+2. Hui, E. C. M., Yu, K. H., Shen, J., & Wang, Y. (2023). A tale of two cities–a comparative study of land conveyance decisions upon national policies and their impacts on land transaction prices in Beijing and Shanghai. _Habitat International_, 131, 102734.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-3. Zhang, Y., Yu, Y., Fong, P. S., & Shen, J. (2023). Addressing unforeseen public health risks via the use of sustainable system and process management. _Frontiers in Public Health_, _11_, 1249277.
+3. Zhang, Y., Yu, Y., Fong, P. S., & Shen, J. (2023). Addressing unforeseen public health risks via the use of sustainable system and process management. _Frontiers in Public Health_, 11, 1249277.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-4. Li, X., Hui, E. C., & Shen, J. (2022). Institutional development and the government response to COVID-19 in China. _Habitat International_, _127_, 102629.
+4. Li, X., Hui, E. C., & Shen, J. (2022). Institutional development and the government response to COVID-19 in China. _Habitat International_, 127, 102629.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-5. Shen, J., Shum, W. Y., Cheong, T. S., & Wang, L. (2021). COVID-19 and regional income inequality in China. _Frontiers in Public Health_, _9_: 687152.
+5. Shen, J., Shum, W. Y., Cheong, T. S., & Wang, L. (2021). COVID-19 and regional income inequality in China. _Frontiers in Public Health_, 9: 687152.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -99,7 +99,7 @@ design:
 
 #### _Finance_
 
-1. Peng, D., Colak, G., & Shen, J. (2023). Lean against the wind: The effect of policy uncertainty on a firm's corporate social responsibility strategy. _Journal of Corporate Finance_, _79_, 102376.
+1. Peng, D., Colak, G., & Shen, J. (2023). Lean against the wind: The effect of policy uncertainty on a firm's corporate social responsibility strategy. _Journal of Corporate Finance_, 79, 102376.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -109,17 +109,17 @@ design:
 
 #####
 
-3. Cheng, L. T., Shen, J., & Wojewodzki, M. (2023). A cross-country analysis of corporate carbon performance: An international investment perspective. _Research in International Business and Finance_, _64_, 101888.
+3. Cheng, L. T., Shen, J., & Wojewodzki, M. (2023). A cross-country analysis of corporate carbon performance: An international investment perspective. _Research in International Business and Finance_, 64, 101888.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-4. Wojewodzki, M., Cheong, T. S., Shen, J., & Cheng, L. T. (2023). Does corporate carbon performance converge in the global market? Evidence from a distribution dynamic approach. _Journal of Environmental Management_, _342_, 118355.
+4. Wojewodzki, M., Cheong, T. S., Shen, J., & Cheng, L. T. (2023). Does corporate carbon performance converge in the global market? Evidence from a distribution dynamic approach. _Journal of Environmental Management_, 342, 118355.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-5. Lee, W. C., Shen, J., Cheong, T. S., & Wojewodzki, M. (2021). Detecting conflicts of interest in credit rating changes: a distribution dynamics approach. _Financial Innovation_, _7_(1), 1-23.
+5. Lee, W. C., Shen, J., Cheong, T. S., & Wojewodzki, M. (2021). Detecting conflicts of interest in credit rating changes: a distribution dynamics approach. _Financial Innovation_, 7(1), 1-23.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -168,17 +168,17 @@ design:
 
 ## Grants
 
-- Principal Investigator, RGC GRF Grant, Corporate climate lobbying and carbon footprints. HK$ 578,258, 2024-2025.
+- Principal Investigator, Hong Kong RGC GRF Grant, Corporate climate lobbying and carbon footprints. HK$ 578,258, 2024-2025.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-- Co-Investigator, RGC GRF Grant, Green infrastructure projects. HK$ 298,626, 2023-2024.
+- Co-Investigator, Hong Kong RGC GRF Grant, Green infrastructure projects. HK$ 298,626, 2023-2024.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-- Principal Investigator, RGC Direct Allocation Grant, Strategic regulatory enforcement, air pollution control and environmental consequences: Evidence from China's war on air pollution. HK$ 20,000, 2021-2023.
+- Principal Investigator, Hong Kong RGC Direct Allocation Grant, Strategic regulatory enforcement, air pollution control and environmental consequences: Evidence from China's war on air pollution. HK$ 20,000, 2021-2023.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -188,7 +188,7 @@ design:
 
 #####
 
-- Principal Investigator, RGC Faculty Development Scheme, Is the investor-pays model an effective solution to problems in the credit rating industry? HK$ 793,997, 2017-2018
+- Principal Investigator, Hong Kong RGC Faculty Development Scheme, Is the investor-pays model an effective solution to problems in the credit rating industry? HK$ 793,997, 2017-2018
 <div class="text-muted exp-meta"></div>
 
 #####
