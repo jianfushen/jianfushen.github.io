@@ -12,7 +12,7 @@ design:
   columns: "2"
 ---
 
-### Hong Kong Polytechnic University, Department of Building & Real Estate
+### The Hong Kong Polytechnic University, Department of Building & Real Estate
 
 - Project Appraisal 
 - Development Finance and Investment
@@ -21,14 +21,14 @@ design:
 - Construction Economics and Finance 
 - Construction Economics
 
-### the Hang Seng University of Hong Kong
+### The Hang Seng University of Hong Kong
 
 - Financial Derivative 
 - Portfolio Management
 - Fixed Income Securities 
 - Financial Management
 
-### Hong Kong Polytechnic University, School of Accounting & Finance
+### The Hong Kong Polytechnic University, School of Accounting & Finance
 
 - Fixed Income Securities 
 - Business Risk Management
