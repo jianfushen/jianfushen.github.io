@@ -3,10 +3,10 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: "Jeff Jianfu Shen"
+name_pronunciation: "Jianfu Shen"
 
 # Full name (for SEO)
-first_name: Jeff Jianfu
+first_name: Jianfu
 last_name: Shen
 
 # Status emoji
@@ -32,6 +32,7 @@ interests:
   - Real estate
   - ESG
   - Green infrastructure
+  - Urban studies
 
 # Education to show in About widget
 education:
