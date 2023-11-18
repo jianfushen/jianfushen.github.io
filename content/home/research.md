@@ -173,7 +173,7 @@ design:
 
 #####
 
-- Co-Investigator, Hong Kong RGC GRF Grant, Green infrastructure projects. HK$ 298,626, 2023-2024.
+- Co-investigator, Hong Kong RGC GRF Grant, Green infrastructure projects. HK$ 298,626, 2023-2024.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -183,7 +183,7 @@ design:
 
 #####
 
-- Co-Investigator, 2019 年度广东省自然科学基金面上项目（200A1515010553）, 国家级新区活力发展时空演变及影响机制研究—以南沙新区为例, RMB 100,000, 2019-2022.
+- Co-investigator, 2019 年度广东省自然科学基金面上项目, 国家级新区活力发展时空演变及影响机制研究—以南沙新区为例, RMB 100,000, 2019-2022.
 <div class="text-muted exp-meta"></div>
 
 #####
