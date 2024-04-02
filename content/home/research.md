@@ -16,52 +16,55 @@ design:
 
 #### _Real Estate_
 
-1. Wang, J. J., Shen, J., & Pretorius, F. (2023). Valuing options to renew at future market value: the case of commercial property leases. _Financial Innovation_, 9(1), 1-35.
+11. [1]	Shen,J., Hui, E.C.M. & Fan, J. (2024). The value of sustainable property management in real estate: Evidence from Hong Kong. _The Journal of Real Estate Research_, Accepted.
+<div class="text-muted exp-meta"></div>
+
+#####
+10. Peng, D., Shen, J., Fung, S. Y. K., Hui, E., & Fan, K. (2024). The valuation effect and consequences of clawback adoption in Real Estate Investment Trusts. _The Journal of Real Estate Finance and Economics_, 68, 74–317.
+<div class="text-muted exp-meta"></div>
+
+#####
+9. Wang, J. J., Shen, J., & Pretorius, F. (2023). Valuing options to renew at future market value: the case of commercial property leases. _Financial Innovation_, 9(1), 1-35.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-2. Peng, D., Shen, J., Fung, S. Y. K., Hui, E., & Fan, K. (2022). The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts. _The Journal of Real Estate Finance and Economics_, 1-44.
+8. Shen, J., Hui, E.C.M and Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. _Journal of Real Estate Finance & Economics_, 63, 122-142.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-3. Shen, J., Hui, E.C.M and Fan, K. (2021). Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs. _Journal of Real Estate Finance & Economics_, 63: 122-142.
+7. Shen, J., Hui, E. C., & Fan, K. (2021). The beta anomaly in the REIT market. _The Journal of Real Estate Finance and Economics_, 63, 414-436.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-4. Shen, J., Hui, E. C., & Fan, K. (2021). The beta anomaly in the REIT market. _The Journal of Real Estate Finance and Economics_, 63, 414-436.
+6. Shen, J. (2020). Distress risk and stock returns on equity REITs. _Journal of Real Estate Finance & Economics_, 62: 455-480.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-5. Shen, J. (2020). Distress risk and stock returns on equity REITs. _Journal of Real Estate Finance & Economics_, 62: 455-480.
+5. Li, X., Hui, E.C.M. and Shen, J. (2020). The consequences of Chinese outward real estate investment: Evidence from Hong Kong land market. _Habitat International_, 98, 102151.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-6. Li, X., Hui, E.C.M. and Shen, J. (2020). The consequences of Chinese outward real estate investment: Evidence from Hong Kong land market. _Habitat International_, 98, 102151.
+4. Shen, J., Pretorius, F., and Li, X. (2019). Does joint bidding reduce competitions? Evidence from Hong Kong land auctions. _Journal of Real Estate Finance and Economics_, 58(1), 111-132.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-7. Shen, J., Pretorius, F., and Li, X. (2019). Does joint bidding reduce competitions? Evidence from Hong Kong land auctions. _Journal of Real Estate Finance and Economics_, 58(1), 111-132.
+3. Shen, J., Pretorius, F., and Chau, K.W. (2018). Land auctions with budget constraints. _Journal of Real Estate Finance and Economics_, 56(3), 443-471.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-8. Shen, J., Pretorius, F., and Chau, K.W. (2018). Land auctions with budget constraints. _Journal of Real Estate Finance and Economics_, 56(3), 443-471.
+2. Shen, J., and Yin, X. (2016). Credit expansion, state ownership and capital structure of Chinese real estate companies. _Journal of Property Investment and Finance_, 34(3), 263-275.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-9. Shen, J., and Yin, X. (2016). Credit expansion, state ownership and capital structure of Chinese real estate companies. _Journal of Property Investment and Finance_, 34(3), 263-275.
-<div class="text-muted exp-meta"></div>
-
-#####
-
-10. Shen, J., and Pretorius, F. (2013). Binomial option pricing models for real estate development. _Journal of Property Investment and Finance_, 31(5), 418-440.
+1. Shen, J., and Pretorius, F. (2013). Binomial option pricing models for real estate development. _Journal of Property Investment and Finance_, 31(5), 418-440.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -70,12 +73,12 @@ design:
 
 #### _Urban Studies_
 
-1. Yu, Q., Hui, E. C. M., & Shen, J. (2023). Do local governments capitalise on the spillover effect in the housing market? Quasi-experimental evidence from house purchase restrictions in China. _Land Use Policy_, 133, 106851.
+5. Yu, Q., Hui, E. C. M., & Shen, J. (2023). Do local governments capitalise on the spillover effect in the housing market? Quasi-experimental evidence from house purchase restrictions in China. _Land Use Policy_, 133, 106851.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-2. Hui, E. C. M., Yu, K. H., Shen, J., & Wang, Y. (2023). A tale of two cities–a comparative study of land conveyance decisions upon national policies and their impacts on land transaction prices in Beijing and Shanghai. _Habitat International_, 131, 102734.
+4. Hui, E. C. M., Yu, K. H., Shen, J., & Wang, Y. (2023). A tale of two cities–a comparative study of land conveyance decisions upon national policies and their impacts on land transaction prices in Beijing and Shanghai. _Habitat International_, 131, 102734.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -85,12 +88,12 @@ design:
 
 #####
 
-4. Li, X., Hui, E. C., & Shen, J. (2022). Institutional development and the government response to COVID-19 in China. _Habitat International_, 127, 102629.
+2. Li, X., Hui, E. C., & Shen, J. (2022). Institutional development and the government response to COVID-19 in China. _Habitat International_, 127, 102629.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-5. Shen, J., Shum, W. Y., Cheong, T. S., & Wang, L. (2021). COVID-19 and regional income inequality in China. _Frontiers in Public Health_, 9: 687152.
+1. Shen, J., Shum, W. Y., Cheong, T. S., & Wang, L. (2021). COVID-19 and regional income inequality in China. _Frontiers in Public Health_, 9: 687152.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -99,32 +102,40 @@ design:
 
 #### _Finance_
 
-1. Peng, D., Colak, G., & Shen, J. (2023). Lean against the wind: The effect of policy uncertainty on a firm's corporate social responsibility strategy. _Journal of Corporate Finance_, 79, 102376.
+15. Chan, R. Y. K., Shen, J., Cheng, L. T., & Lai, J. (2024). Impacts of investment relations service quality on corporate information transparency and intangible value: The moderating role of competitive intensity. _Marketing Intelligence and Planning_, Accepted.
+<div class="text-muted exp-meta"></div>
+
+#####
+14. Fung, M. K., Cheng, L. T., & Shen, J. (2024). Do media message receivers asymmetrically react to non-strategic and strategic media coverage? Evidence from Hong Kong. _Research in International Business and Finance_, Volume 70, Part A, June 2024, 102335.
+<div class="text-muted exp-meta"></div>
+
+#####
+13. Peng, D., Colak, G., & Shen, J. (2023). Lean against the wind: The effect of policy uncertainty on a firm's corporate social responsibility strategy. _Journal of Corporate Finance_, 79, 102376.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-2. Hasan, I., Shen, J., Zhang, G., & Poon, W. P. (2023). Market‐implied ratings and their divergence from credit ratings. _Journal of Financial Research_, 46(2), 251-289.
+12. Hasan, I., Shen, J., Zhang, G., & Poon, W. P. (2023). Market‐implied ratings and their divergence from credit ratings. _Journal of Financial Research_, 46(2), 251-289.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-3. Cheng, L. T., Shen, J., & Wojewodzki, M. (2023). A cross-country analysis of corporate carbon performance: An international investment perspective. _Research in International Business and Finance_, 64, 101888.
+11. Cheng, L. T., Shen, J., & Wojewodzki, M. (2023). A cross-country analysis of corporate carbon performance: An international investment perspective. _Research in International Business and Finance_, 64, 101888.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-4. Wojewodzki, M., Cheong, T. S., Shen, J., & Cheng, L. T. (2023). Does corporate carbon performance converge in the global market? Evidence from a distribution dynamic approach. _Journal of Environmental Management_, 342, 118355.
+10. Wojewodzki, M., Cheong, T. S., Shen, J., & Cheng, L. T. (2023). Does corporate carbon performance converge in the global market? Evidence from a distribution dynamic approach. _Journal of Environmental Management_, 342, 118355.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-5. Lee, W. C., Shen, J., Cheong, T. S., & Wojewodzki, M. (2021). Detecting conflicts of interest in credit rating changes: a distribution dynamics approach. _Financial Innovation_, 7(1), 1-23.
+9. Lee, W. C., Shen, J., Cheong, T. S., & Wojewodzki, M. (2021). Detecting conflicts of interest in credit rating changes: a distribution dynamics approach. _Financial Innovation_, 7(1), 1-23.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-6. Cheng, L., Sharma, P, Shen, J. and Ng, A. (2021). Exploring the dark side of third-party certification effect in B2B relationships: A professional financial services perspective. _Journal of Business Research_, 127, 123-136.
+8. Cheng, L., Sharma, P, Shen, J. and Ng, A. (2021). Exploring the dark side of third-party certification effect in B2B relationships: A professional financial services perspective. _Journal of Business Research_, 127, 123-136.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -134,32 +145,32 @@ design:
 
 #####
 
-8. Haw, In-Wu, Chen, W., Shen, J., and Wong, P. (2020). The economic benefits of returned-global Chinese IPOs. _Review of Quantitative Finance and Accounting,_ 55:1207–1239.
+6. Haw, In-Wu, Chen, W., Shen, J., and Wong, P. (2020). The economic benefits of returned-global Chinese IPOs. _Review of Quantitative Finance and Accounting,_ 55:1207–1239.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-9. Ng, A. and Shen, J. (2020). Quality investing strategy in Asian stock markets, _Accounting & Finance_, 60, 3033–3064.
+5. Ng, A. and Shen, J. (2020). Quality investing strategy in Asian stock markets, _Accounting & Finance_, 60, 3033–3064.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-10. Wojewodzki, M., Poon, W.P.H, and Shen, J. (2018). The role of credit ratings on capital structure and its speed of adjustment: an international study. _European Journal of Finance_, 24(9), 735-760.
+4. Wojewodzki, M., Poon, W.P.H, and Shen, J. (2018). The role of credit ratings on capital structure and its speed of adjustment: an international study. _European Journal of Finance_, 24(9), 735-760.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-11. Poon, W.P.H, Shen, J., and Burnett, J. (2017). An empirical study of cross-border channeling of sovereign risk to bank credit risk. _Financial Review_, 52(2), 281-302.
+3. Poon, W.P.H, Shen, J., and Burnett, J. (2017). An empirical study of cross-border channeling of sovereign risk to bank credit risk. _Financial Review_, 52(2), 281-302.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-12. Shen, J., Firth, M. A, and Poon, W. P. H. (2016). Credit expansion, corporate finance and overinvestment: Recent evidence from China. _Pacific-Basin Finance Journal_, 39, 16-27.
+2. Shen, J., Firth, M. A, and Poon, W. P. H. (2016). Credit expansion, corporate finance and overinvestment: Recent evidence from China. _Pacific-Basin Finance Journal_, 39, 16-27.
 <div class="text-muted exp-meta"></div>
 
 #####
 
-13. Ng, A. and Shen, J. (2016). Screen winners from losers using simple fundamental analysis in the Pacific-Basin stock markets. _Pacific-Basin Finance Journal_, 39, 159-177.
+1. Ng, A. and Shen, J. (2016). Screen winners from losers using simple fundamental analysis in the Pacific-Basin stock markets. _Pacific-Basin Finance Journal_, 39, 159-177.
 <div class="text-muted exp-meta"></div>
 
 #####
