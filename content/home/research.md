@@ -16,7 +16,7 @@ design:
 
 #### _Real Estate_
 
-11. [1]	Shen,J., Hui, E.C.M. & Fan, J. (2024). The value of sustainable property management in real estate: Evidence from Hong Kong. _The Journal of Real Estate Research_, Accepted.
+11. Shen,J., Hui, E.C.M. & Fan, J. (2024). The value of sustainable property management in real estate: Evidence from Hong Kong. _The Journal of Real Estate Research_, Accepted.
 <div class="text-muted exp-meta"></div>
 
 #####
