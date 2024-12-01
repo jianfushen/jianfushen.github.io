@@ -16,7 +16,11 @@ design:
 
 #### _Real Estate_
 
-11. Shen,J., Hui, E.C.M. & Fan, J. (2024). The value of sustainable property management in real estate: Evidence from Hong Kong. _The Journal of Real Estate Research_, Accepted.
+#####
+12. Fan, K. Y., Shen, J., Hui, E. C., & Cheng, L. T. (2024). ESG components and equity returns: Evidence from real estate investment trusts. _International Review of Financial Analysis_, 103716.
+<div class="text-muted exp-meta"></div>
+
+11. Shen,J., Hui, E.C.M. & Fan, J. (2024). The value of sustainable property management in real estate: Evidence from Hong Kong. _The Journal of Real Estate Research_, 46(3), 389-419.
 <div class="text-muted exp-meta"></div>
 
 #####
@@ -73,6 +77,21 @@ design:
 
 #### _Urban Studies_
 
+8. Lin, X., Hui, E. C. M., & Shen, J. (2025). Carbon emissions reduction target and green utilization of land resources: Evidence from the industrial land market in China. _Environmental Impact Assessment Review_, 110, 107677.
+<div class="text-muted exp-meta"></div>
+
+#####
+
+7. Qin, X., Hui, E. C. M., & Shen, J. (2024). The emergence of Industry 4.0 technologies across Chinese cities: The roles of technological relatedness/cross-relatedness and industrial policy. _Applied Geography_, 173, 103455.
+<div class="text-muted exp-meta"></div>
+
+#####
+
+6. Lu, D., Hui, E. C. M., Shen, J., & Shi, J. (2024). Digital industry agglomeration and urban innovation: Evidence from China. _Economic Analysis and Policy_, 84, 1998-2025.
+<div class="text-muted exp-meta"></div>
+
+#####
+
 5. Yu, Q., Hui, E. C. M., & Shen, J. (2023). Do local governments capitalise on the spillover effect in the housing market? Quasi-experimental evidence from house purchase restrictions in China. _Land Use Policy_, 133, 106851.
 <div class="text-muted exp-meta"></div>
 
@@ -102,7 +121,17 @@ design:
 
 #### _Finance_
 
-15. Chan, R. Y. K., Shen, J., Cheng, L. T., & Lai, J. (2024). Impacts of investment relations service quality on corporate information transparency and intangible value: The moderating role of competitive intensity. _Marketing Intelligence and Planning_, Accepted.
+17. Yu, Q., Hui, E. C. M., & Shen, J. (2024). The real impacts of third-party certification on green bond issuances: Evidence from the Chinese green bond market. _Journal of Corporate Finance_, 102694.
+<div class="text-muted exp-meta"></div>
+
+#####
+
+16. Yu, Q., Hui, E. C., & Shen, J. (2024). Are state-owned enterprises more responsible for carbon neutrality? Evidence from stock market reactions to China’s commitment to carbon neutrality. _Journal of International Financial Markets, Institutions and Money_, 96, 102055.
+<div class="text-muted exp-meta"></div>
+
+#####
+
+15. Chan, R. Y. K., Shen, J., Cheng, L. T., & Lai, J. (2024). Impacts of investment relations service quality on corporate information transparency and intangible value: The moderating role of competitive intensity. _Marketing Intelligence and Planning_, 42(4), 704-724.
 <div class="text-muted exp-meta"></div>
 
 #####
