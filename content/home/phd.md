@@ -13,7 +13,9 @@ design:
 ---
 
 - [Terry Fan](https://kwokyuenfan.github.io/) (graduated; placement: Department of Finance, BNU-HKBU United International College)
-- Yi Zhang (fourth-year)
-- Qing Yu (third-year)
-- Xin Lin (second-year)
+- Yi Zhang 
+- Qing Yu
+- Shunfa Hong
+- Xin Lin
+- Xiao Cui
 - Recruit PhD students in the areas of ESG, green building/infrastructure, REITs, real estate, urban economics, etc.
