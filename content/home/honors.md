@@ -12,6 +12,10 @@ design:
   columns: "2"
 ---
 
+- Best Paper Award (first prize), the 2024 China Real Estate Academic Conference
+
+###
+
 - Best Paper Award (first prize), the 2023 China Real Estate Academic Conference
 
 ###
